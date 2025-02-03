@@ -10,5 +10,6 @@ Bonus
 Proviamo a installare un pacchetto, (tipo chalk) proviamo ad utilizzarlo e aggiungere la cartella dei moduli scaricati 
 in .gitignore
 */
+import chalk from 'chalk';
 
-console.log("Hello World!");
+console.log(chalk.blue.bgGreen.bold("Hello World!"));
