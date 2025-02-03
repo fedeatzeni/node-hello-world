@@ -11,4 +11,4 @@ Proviamo a installare un pacchetto, (tipo chalk) proviamo ad utilizzarlo e aggiu
 in .gitignore
 */
 
-console.log("Hello World");
+console.log("Hello World!");
